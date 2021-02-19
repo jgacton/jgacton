@@ -1,4 +1,7 @@
-### Hi there 👋
+# Hi there 👋
+### I am currently working on my computer science A-Level NEA
+### I also have a website
+#### Just can't wait for this pandemic to be over ngl
 
 <!--
 **jgacton/jgacton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
