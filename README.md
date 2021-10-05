@@ -1,8 +1,5 @@
 # Hi there 👋
-### I am an A-level student in the UK studying maths, further maths, computer science and physics as well as completing an extended project.
-### My A-level CS NEA is an orbital mechanics simulation of a rocket launch, ascent and orbit.
-### My EP was on the subject of "Will Machine Superintelligence Benefit Humanity?".
-### I also have a website.
+### I am a university student in the UK studying for a BSc in mathematics & computer science (joint honours).
 
 <!--
 **jgacton/jgacton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
