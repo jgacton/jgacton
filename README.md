@@ -1,5 +1,4 @@
 # Hi there 👋
-## I am a university student in the UK studying for a BSc in mathematics & computer science.
 
 <!--
 **jgacton/jgacton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
