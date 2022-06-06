@@ -6,4 +6,4 @@ I have experience programming in C, Haskell and R (University), Java (School and
 
 This Github repository showcases some of my programming projects and work to date, including both university coursework assignments and my own personal adventures.
 
-Connect with me on [LinkedIn!](https://www.linkedin.com/in/jgacton)
+Visit my [website](http://jgacton.co.uk) and connect with me on [LinkedIn!](https://www.linkedin.com/in/jgacton)
