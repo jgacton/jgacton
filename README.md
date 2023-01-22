@@ -1,6 +1,6 @@
 # Hi there 👋
 
-My name is Josh, and I am an undergraduate student studying Mathematics and Computer Science at the University of Bristol. I am interested in pursuing a career in quantitative finance, data science or research. I am currently pursuing internships in these areas for the summer of 2023. 
+My name is Josh, and I am an undergraduate student studying Mathematics and Computer Science at the University of Bristol. I am interested in pursuing higher education and a career in quantitative finance or data science/analytics.  
 
 I have experience programming in C, Haskell and R (University), Java (School and University), Python (School and an internship) and web development with HTML, CSS and Node.js.
 
