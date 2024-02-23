@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hello!
 
 My name is Josh, and I am an undergraduate student studying Mathematics and Computer Science at the University of Bristol. I am interested in pursuing higher education and a career in quantitative finance or data science/analytics.  
 
