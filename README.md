@@ -1,6 +1,6 @@
 # Hello!
 
-My name is Josh, and I am an undergraduate student studying Mathematics and Computer Science at the University of Bristol. I am interested in pursuing higher education and a career in quantitative finance or data science/analytics.  
+My name is Josh, and I am a postgraudate student studying for an MSc in Applicable Mathematics at the London School of Economics. Previously I was an undergraduate student studying Mathematics and Computer Science at the University of Bristol. I am pursuing a career in quantitative finance or data science.
 
 I have experience programming in Python, R, C, C++, Java and Haskell as well as HTML, CSS and JavaScript for web development across a variety of school and university courses as well as my own learning and online courses.
 
