@@ -1,4 +1,4 @@
-Studying for an MSc in Applicable Mathematics at the London School of Economics. Previously studied Mathematics and Computer Science at the University of Bristol. 
+Reading Applicable Mathematics (MSc) at the London School of Economics. Graduated with a BSc (Hons) Mathematics and Computer Science from the University of Bristol.
 
 [LaTeX CV template](https://github.com/jgacton/LaTeX-CV-Template)
 
