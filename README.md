@@ -1,6 +1,10 @@
-Reading for an MSc in Applicable Mathematics at the London School of Economics. Graduated with a BSc (Hons) Mathematics and Computer Science from the University of Bristol.
+BSc Mathematics & Computer Science from the University of Bristol, 2024.
 
-Joining Morgan Stanley as an Analyst in FX options trading July 2025. In the meantime, trying to learn as much as I can!
+Candidate for MSc Applicable Mathematics from the LSE, 2025.
+
+Analyst on the FX Options Trading desk at Morgan Stanley.
+
+Interested in macroeconomics & quantitative trading.
 
 [LaTeX CV template](https://github.com/jgacton/LaTeX-CV-Template)
 
