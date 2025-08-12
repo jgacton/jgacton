@@ -14,5 +14,5 @@ Interested in macroeconomics & quantitative trading.
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=jgacton&show_icons=true&theme=tokyonight" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jgacton&layout=compact&theme=transparent" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jgacton&layout=compact&theme=tokyonight" />
 </a>
